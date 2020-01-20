@@ -9,7 +9,7 @@ Charles tells you that his Cerebro is broken and wants an upgrade so that discov
 He has used Cerebro to easily discover hidden mutants in the area. 
 
 *Unfortunately google maps has changed its policy while I was working on this app. Now you have to supply a creditcard
-otherwise a grey development layer will occur. That's way you see a gray overlay, the functionality will stay the same
+otherwise a grey development layer will occur. That's why you see a gray overlay, the functionality will stay the same
 and should not interfere with learning new stuff :)*  
 
 [![](http://img.youtube.com/vi/T_Ob9p4vbrw/0.jpg)](http://www.youtube.com/watch?v=T_Ob9p4vbrw "")
