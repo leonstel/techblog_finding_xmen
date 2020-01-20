@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title></title>
+    <style>
+
+        body {
+            font-family: Corbel;
+        }
+
+        #map {
+            width: 100vw;
+            height: 800px;
+        }
+
+        #ui {
+            position: absolute;
+            z-index: 1;
+            /*background-color: white;*/
+            border-radius: 8px;
+            padding: 10px;
+            left: 100px;
+            /*transform: translateX(-50%);*/
+            top: 50px;
+            width: 200px;
+        }
+
+        #ui button {
+            margin-bottom: 10px;
+            position: relative;
+            border: none;
+            color: #FFFFFF;
+            padding: 20px;
+            width: 100%;
+            text-align: center;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+            text-decoration: none;
+            overflow: hidden;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+
+        #ui button:after {
+            content: "";
+            background: #f1f1f1;
+            display: block;
+            position: absolute;
+            padding-top: 300%;
+            padding-left: 350%;
+            margin-left: -20px !important;
+            margin-top: -120%;
+            opacity: 0;
+            transition: all 0.8s
+        }
+
+        #ui button:active:after {
+            padding: 0;
+            margin: 0;
+            opacity: 1;
+            transition: 0s
+        }
+
+        #ui button:hover {
+            cursor: pointer;
+        }
+
+        .flex-column {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .row {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .small-btn {
+            width: 48% !important;
+            padding: 10px !important;
+        }
+
+        .normal-btn {
+            background-color: #4CAF50;
+        }
+
+        .hide-btn {
+            background-color: red;
+        }
+
+        .show-btn {
+            background-color: blue;
+        }
+
+        .ui-panel{
+            background-color: white;
+            padding: 0 10px;
+            margin-bottom: 10px;
+            border-radius: 3px;
+        }
+
+        .show-hide-panel button {
+            display: inline-block;
+        }
+
+        .mutant-panel {
+            padding: 10px 10px;
+        }
+
+        .mutant-panel-mutants {
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .mutant-panel img {
+            width: 50px;
+        }
+
+        .mutant-panel h3 {
+            text-align: center;
+        }
+
+        .mutant-img:hover{
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div id="ui"></div>
+<div id="xmen-map"></div>
+</body>
+</html>

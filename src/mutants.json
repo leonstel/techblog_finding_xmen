@@ -1,0 +1,67 @@
+{
+  "alpha": [
+    {
+      "id": "6894f4f8-2720-11ea-978f-2e728ce88125",
+      "name": "Magneto",
+      "img": "magneto.png",
+      "location": {
+        "lat": 51.8148042,
+        "lon": 4.6846541
+      }
+    },
+    {
+      "id": "6894f958-2720-11ea-978f-2e728ce88125",
+      "name": "Scott",
+      "img": "scott.png",
+      "location": {
+        "lat": 51.815069,
+        "lon": 4.6868423
+      }
+    }
+  ],
+  "beta": [
+    {
+      "id": "6894fade-2720-11ea-978f-2e728ce88125",
+      "name": "Mystique",
+      "img": "mystique.png",
+      "location": {
+        "lat": 51.81029,
+        "lon": 4.6583893
+      }
+    },
+    {
+      "id": "6894fc28-2720-11ea-978f-2e728ce88125",
+      "name": "Toad",
+      "img": "toad.png",
+      "location": {
+        "lat": 51.83357,
+        "lon": 4.6794603
+      }
+    },
+    {
+      "id": "6894fd7c-2720-11ea-978f-2e728ce88125",
+      "name": "Storm",
+      "img": "storm.png",
+      "location": {
+        "lat": 51.834,
+        "lon": 4.698
+      }
+    }
+  ],
+  "xmen": {
+    "professorX": {
+      "id": "6894febc-2720-11ea-978f-2e728ce88125",
+      "name": "Professor X",
+      "img": "profx.png"
+    },
+    "wolverine": {
+      "id": "6895027c-2720-11ea-978f-2e728ce88125",
+      "name": "Wolverine",
+      "img": "wolverine.png",
+      "location": {
+        "lat": 51.80514,
+        "lon": 4.68642
+      }
+    }
+  }
+}
