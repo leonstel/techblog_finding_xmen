@@ -28,7 +28,6 @@ will be discussed.
 It has been fun making it and I hope will learn at least one thing or two
 that would help you further on your own journey.
 
-The master branch contains all the code.
 
 [Finding X MEN (Part1)](http://leonstel.github.io/blogs/xmen_part1)  
 [Finding  X MEN - Without Italian Delicacy (Part2)](http://leonstel.github.io/blogs/xmen_part2)  
@@ -36,6 +35,11 @@ The master branch contains all the code.
 [Finding  X MEN - The Gathering (Part4)](http://leonstel.github.io/blogs/xmen_part4)
 
 [Other Blog Posts](http://leonstel.github.io/)
+
+```
+The master branch contains all the code.
+```
+
 
 ```
 npm install
