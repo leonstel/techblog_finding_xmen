@@ -28,6 +28,8 @@ will be discussed.
 It has been fun making it and I hope will learn at least one thing or two
 that would help you further on your own journey.
 
+The master branch contains all the code.
+
 [Finding X MEN (Part1)](http://leonstel.github.io/blogs/xmen_part1)  
 [Finding  X MEN - Without Italian Delicacy (Part2)](http://leonstel.github.io/blogs/xmen_part2)  
 [Finding  X MEN - The Right Direction (Part3)](http://leonstel.github.io/blogs/xmen_part3)  
