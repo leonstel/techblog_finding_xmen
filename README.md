@@ -17,8 +17,7 @@ and should not interfere with learning new stuff :)*
 ## Features
 - The realtime position will be linked to a professor X on the map **(from 0:02 and on)**
 - Control the radius of the range of the Cerebro and reflect it on the map (the blue circle around professor X) **(0:22)**
-- Several types of mutants do exists (Alpha, Beta etc) so the option to control mutant markers of a specific type is **(0:40)**
-desired
+- Several types of mutants do exists (Alpha, Beta etc) so the option to control mutant markers of a specific type is desired **(0:40)**
 - When a mutant resides within the reach of the constantly moving professor X it will be marked as discovered **(from 0:02 and on)**
 - Wolverine will be sent after those discovered mutants to recruit them on the X Men team. **(1:20)**
 
