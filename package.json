@@ -5,15 +5,15 @@
   "main": "webpack.config.js",
   "dependencies": {
     "@types/googlemaps": "^3.38.1",
-    "html-loader": "^0.5.5",
-    "html-webpack-plugin": "^3.2.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "rxjs": "^6.5.3",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.7.3",
-    "webpack": "^4.41.2",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.9.0"
   },
   "scripts": {
